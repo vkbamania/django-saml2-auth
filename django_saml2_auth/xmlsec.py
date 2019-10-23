@@ -1,7 +1,6 @@
 import os
 
-
-def install_xmlsec():
+def install():
     # proc = subprocess.Popen('apt-get update', shell=True, stdin=None,
     #                         stdout=open(os.devnull, "wb"), stderr=STDOUT, executable="/bin/bash")
     # proc.wait()
